@@ -1,4 +1,6 @@
 package example.java.design.structural.decoratorpattern;
+
+//ConcreteComponent
 public class BasicCar implements Car {
 
 	@Override
