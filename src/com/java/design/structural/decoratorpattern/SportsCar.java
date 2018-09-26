@@ -1,7 +1,5 @@
 package com.java.design.structural.decoratorpattern;
 
-
-?
 //ConcreteDecorator which will wrap the concrete component
 public class SportsCar extends CarDecorator {
 
