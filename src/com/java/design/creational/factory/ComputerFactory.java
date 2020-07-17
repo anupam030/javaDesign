@@ -1,7 +1,7 @@
 package com.java.design.creational.factory;
 
 public class ComputerFactory {
-	/*Factory design pattern is used when we have a commom interface i. produce with multiple implemtnations(Concrete Product) and 
+	/*Factory design pattern is used when we have a commom interface i. product with multiple implemtnations(Concrete Product) and 
 	 * based on input, we need to return one of
      the concrete product. 
      This pattern take out the responsibility of instantiation of a class from client program to the factory class.*/

@@ -42,12 +42,6 @@ public class WeatherData implements Subject {
 		}
 		
 	}
-
-	@Override
-	public void removeObserver(Observer o) {
-		observers.remove(o);
-		
-	}
 	
 	public void setMeasurements(float temp,float humidity,float pressure) {
 		this.temprature=temp;
